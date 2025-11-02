@@ -1,4 +1,4 @@
-# 🍳 Recipe Manager
+#  Recipe Manager
 
 A simple Object-Oriented Python project to manage recipes, ingredients, and categories.
 
